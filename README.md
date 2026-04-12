@@ -37,4 +37,10 @@ How deep should the packaging go?
 
 ---
 
-*Answers to these questions will shape the entire project roadmap.*
+## Research
+
+- [Debug: Main Directions](research/01_debug_main_directions.md) — critical analysis of Epigenetic Reprogramming + Senolytics + AI. Coverage: ~3-4 of 12 hallmarks of aging. Key insight: integration between directions barely exists.
+
+---
+
+*Answers to the 5 questions above will shape the entire project roadmap.*
