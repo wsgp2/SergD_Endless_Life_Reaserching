@@ -40,6 +40,7 @@ How deep should the packaging go?
 ## Research
 
 - [Debug: Main Directions](research/01_debug_main_directions.md) — critical analysis of Epigenetic Reprogramming + Senolytics + AI. Coverage: ~3-4 of 12 hallmarks of aging. Key insight: integration between directions barely exists.
+- [All 12 Hallmarks of Aging](research/02_all_12_hallmarks_of_aging.md) — full map of every hallmark: what it is, who works on it, what's promising, what's broken, timelines, and interconnections. Includes coverage/gap analysis.
 
 ---
 
