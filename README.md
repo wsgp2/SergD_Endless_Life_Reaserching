@@ -63,6 +63,7 @@ What timeframe are we working toward?
 - [Debug: Main Directions](research/01_debug_main_directions.md) — critical analysis of Epigenetic Reprogramming + Senolytics + AI. Coverage: ~3-4 of 12 hallmarks of aging. Key insight: integration between directions barely exists.
 - [All 12 Hallmarks of Aging](research/02_all_12_hallmarks_of_aging.md) — full map of every hallmark: what it is, who works on it, what's promising, what's broken, timelines, and interconnections. Includes coverage/gap analysis.
 - [GitHub Longevity Landscape](research/03_github_longevity_landscape.md) — survey of active open-source projects (aging clocks, senescence detection, LLM agents for longevity, knowledge graphs). Key trend: foundation models entering the field; LLM agents over aging DBs are the fastest-growing niche.
+- [LLM Agents Deep Dive](research/04_llm_agents_deep_dive.md) — critical technical analysis of Longevity Genie and longevity-os. Both real but smaller than they appear (2-4 devs each, mostly weekend-scale efforts). Identifies 4 concrete positions a new project could own.
 
 ---
 
